@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ApiNASADV.Views.ApodPageDV"
+             Title="ApodPageDV">
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Frame BackgroundColor="DarkSlateGray">
+            <Label Text="Imagen del día"
+ HorizontalOptions="Center"
+ VerticalOptions="Start"
+ TextColor="White"
+ FontSize="Large"/>
+        </Frame>
+        <Label Text="Seleccione la fecha:" FontSize="Small" HorizontalOptions="Center"
+TextColor="GhostWhite"/>
+        <DatePicker x:Name="ImageDate"
+ Date="{Binding ChosenDate}"
+ HorizontalOptions="CenterAndExpand"
+ TextColor="GhostWhite"/>
+        <Label x:Name="Title"
+ Text="{Binding Title}"
+ FontSize="Medium"
+ FontAttributes="Bold"
+ HorizontalTextAlignment="Center"
+ HorizontalOptions="CenterAndExpand"
+ TextColor="GhostWhite"/>
+        <ScrollView VerticalOptions="StartAndExpand">
+            <StackLayout Margin="40,15,40,50">
+                <Image x:Name="Picture"
+ HorizontalOptions="FillAndExpand"
+ VerticalOptions="FillAndExpand"
+ Source="{Binding ImageURI}"/>
+                <Label x:Name="Didactic"
+ Text="{Binding Didactic}"
+ HorizontalOptions="FillAndExpand"
+ TextColor="GhostWhite"
+ Padding="5, 20, 5, 20"
+ FontFamily="verdana"/>
+            </StackLayout>
+        </ScrollView>
+    </StackLayout>
+</ContentPage>
+
