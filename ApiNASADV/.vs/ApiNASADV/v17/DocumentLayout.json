@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\ApiNASADV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0C7AA7-AEB0-4584-925C-4C53239BC626}|ApiNASADV\\ApiNASADV.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\apinasadv\\apinasadv\\services\\apodservicedv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0C7AA7-AEB0-4584-925C-4C53239BC626}|ApiNASADV\\ApiNASADV.csproj|solutionrelative:apinasadv\\services\\apodservicedv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0C7AA7-AEB0-4584-925C-4C53239BC626}|ApiNASADV\\ApiNASADV.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\apinasadv\\apinasadv\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0C7AA7-AEB0-4584-925C-4C53239BC626}|ApiNASADV\\ApiNASADV.csproj|solutionrelative:apinasadv\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0C7AA7-AEB0-4584-925C-4C53239BC626}|ApiNASADV\\ApiNASADV.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\apinasadv\\apinasadv\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0C7AA7-AEB0-4584-925C-4C53239BC626}|ApiNASADV\\ApiNASADV.csproj|solutionrelative:apinasadv\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0C7AA7-AEB0-4584-925C-4C53239BC626}|ApiNASADV\\ApiNASADV.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\apinasadv\\apinasadv\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC0C7AA7-AEB0-4584-925C-4C53239BC626}|ApiNASADV\\ApiNASADV.csproj|solutionrelative:apinasadv\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0C7AA7-AEB0-4584-925C-4C53239BC626}|ApiNASADV\\ApiNASADV.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\apinasadv\\apinasadv\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC0C7AA7-AEB0-4584-925C-4C53239BC626}|ApiNASADV\\ApiNASADV.csproj|solutionrelative:apinasadv\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0C7AA7-AEB0-4584-925C-4C53239BC626}|ApiNASADV\\ApiNASADV.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\apinasadv\\apinasadv\\views\\apodpagedv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC0C7AA7-AEB0-4584-925C-4C53239BC626}|ApiNASADV\\ApiNASADV.csproj|solutionrelative:apinasadv\\views\\apodpagedv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0C7AA7-AEB0-4584-925C-4C53239BC626}|ApiNASADV\\ApiNASADV.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\apinasadv\\apinasadv\\viewmodels\\apodviewmodeldv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0C7AA7-AEB0-4584-925C-4C53239BC626}|ApiNASADV\\ApiNASADV.csproj|solutionrelative:apinasadv\\viewmodels\\apodviewmodeldv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0C7AA7-AEB0-4584-925C-4C53239BC626}|ApiNASADV\\ApiNASADV.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\apinasadv\\apinasadv\\views\\apodpagedv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0C7AA7-AEB0-4584-925C-4C53239BC626}|ApiNASADV\\ApiNASADV.csproj|solutionrelative:apinasadv\\views\\apodpagedv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0C7AA7-AEB0-4584-925C-4C53239BC626}|ApiNASADV\\ApiNASADV.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\apinasadv\\apinasadv\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC0C7AA7-AEB0-4584-925C-4C53239BC626}|ApiNASADV\\ApiNASADV.csproj|solutionrelative:apinasadv\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0C7AA7-AEB0-4584-925C-4C53239BC626}|ApiNASADV\\ApiNASADV.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\apinasadv\\apinasadv\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0C7AA7-AEB0-4584-925C-4C53239BC626}|ApiNASADV\\ApiNASADV.csproj|solutionrelative:apinasadv\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0C7AA7-AEB0-4584-925C-4C53239BC626}|ApiNASADV\\ApiNASADV.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\apinasadv\\apinasadv\\models\\apoddv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0C7AA7-AEB0-4584-925C-4C53239BC626}|ApiNASADV\\ApiNASADV.csproj|solutionrelative:apinasadv\\models\\apoddv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\ApiNASADV\\ApiNASADV\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "ApiNASADV\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\ApiNASADV\\ApiNASADV\\AppShell.xaml.cs",
+              "RelativeToolTip": "ApiNASADV\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:59:18.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\ApiNASADV\\ApiNASADV\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ApiNASADV\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\ApiNASADV\\ApiNASADV\\App.xaml.cs",
+              "RelativeToolTip": "ApiNASADV\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:58:21.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\ApiNASADV\\ApiNASADV\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "ApiNASADV\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\ApiNASADV\\ApiNASADV\\MauiProgram.cs",
+              "RelativeToolTip": "ApiNASADV\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:55:15.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\ApiNASADV\\ApiNASADV\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ApiNASADV\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\ApiNASADV\\ApiNASADV\\MainPage.xaml",
+              "RelativeToolTip": "ApiNASADV\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T16:55:10.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\ApiNASADV\\ApiNASADV\\AppShell.xaml",
+              "RelativeDocumentMoniker": "ApiNASADV\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\ApiNASADV\\ApiNASADV\\AppShell.xaml",
+              "RelativeToolTip": "ApiNASADV\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T16:55:07.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\ApiNASADV\\ApiNASADV\\App.xaml",
+              "RelativeDocumentMoniker": "ApiNASADV\\App.xaml",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\ApiNASADV\\ApiNASADV\\App.xaml",
+              "RelativeToolTip": "ApiNASADV\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T16:55:05.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApodPageDV.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\ApiNASADV\\ApiNASADV\\Views\\ApodPageDV.xaml.cs",
+              "RelativeDocumentMoniker": "ApiNASADV\\Views\\ApodPageDV.xaml.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\ApiNASADV\\ApiNASADV\\Views\\ApodPageDV.xaml.cs",
+              "RelativeToolTip": "ApiNASADV\\Views\\ApodPageDV.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:49:18.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApodPageDV.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\ApiNASADV\\ApiNASADV\\Views\\ApodPageDV.xaml",
+              "RelativeDocumentMoniker": "ApiNASADV\\Views\\ApodPageDV.xaml",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\ApiNASADV\\ApiNASADV\\Views\\ApodPageDV.xaml",
+              "RelativeToolTip": "ApiNASADV\\Views\\ApodPageDV.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T16:49:12.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApodViewModelDV.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\ApiNASADV\\ApiNASADV\\ViewModels\\ApodViewModelDV.cs",
+              "RelativeDocumentMoniker": "ApiNASADV\\ViewModels\\ApodViewModelDV.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\ApiNASADV\\ApiNASADV\\ViewModels\\ApodViewModelDV.cs",
+              "RelativeToolTip": "ApiNASADV\\ViewModels\\ApodViewModelDV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:48:56.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApodServiceDV.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\ApiNASADV\\ApiNASADV\\Services\\ApodServiceDV.cs",
+              "RelativeDocumentMoniker": "ApiNASADV\\Services\\ApodServiceDV.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\ApiNASADV\\ApiNASADV\\Services\\ApodServiceDV.cs",
+              "RelativeToolTip": "ApiNASADV\\Services\\ApodServiceDV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:48:49.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApodDV.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\ApiNASADV\\ApiNASADV\\Models\\ApodDV.cs",
+              "RelativeDocumentMoniker": "ApiNASADV\\Models\\ApodDV.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\ApiNASADV\\ApiNASADV\\Models\\ApodDV.cs",
+              "RelativeToolTip": "ApiNASADV\\Models\\ApodDV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:48:33.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
